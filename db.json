@@ -1,14 +1,11 @@
 {
-    [
-        {
-            "alarmType": 1,
-            "_id": "5e688407912e9a2b68b7eed6",
-            "alarmTime": "2020-03-11T08:00:00.000Z",
-            "alarmName": "sam",
-            "alarmActive": true
-        }
-    ],
-    "message": "Data Found !",
-    "status": true
+	"alarmList": [{
+		"alarmType": 1,
+		"_id": "5e688407912e9a2b68b7eed6",
+		"alarmTime": "2020-03-11T08:00:00.000Z",
+		"alarmName": "sam",
+		"alarmActive": true
+	}],
+	"message": "Data Found !",
+	"status": true
 }
-
